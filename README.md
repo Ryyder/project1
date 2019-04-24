@@ -1,45 +1,13 @@
-# TEAM ORANGE - project1
+# Chromatic Control - project1
 
-# README Boilerplate
+A simple app you can use to control your wifi light bulbs. The bulbs will change color based on the temperature and weather conditions outside. The user will be prompted for google/gmail authentication (firebase), then asked to enter in their bulb id. After this, the user can enter in a city, address, or zipcode into the searchbox. Google maps will pin their search request and then the bulb will change color based on temperature and weather conditions.
 
-A template of README best practices to make your README simple to understand and easy to use. 
+# Dependencies
 
-## Table of Contents
+- None
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Support](#support)
-- [Contributing](#contributing)
 
 ## Installation
 
-Download to your project directory, add `README.md`, and commit:
+git clone `https://github.com/Ryyder/project1.git`
 
-```sh
-curl -LO http://git.io/Xy0Chg
-git add README.md
-git commit -m "Use README Boilerplate"
-```
-
-## Usage
-
-Replace the contents of `README.md` with your project's:
-
-- Name
-- Description
-- Installation instructions
-- Usage instructions
-- Support instructions
-- Contributing instructions
-
-Feel free to remove any sections that aren't applicable to your project.
-
-## Support
-
-Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
-
-## Contributing
-
-Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/fraction/readme-boilerplate/compare/).
-Window size: 1280 x 773
-Viewport size: 1280 x 636
